@@ -3,7 +3,7 @@ Repository for TF-QKD optimisation
 
 
 # dependencies
-numpy: 1.20.1+
+numpy: 1.20.1+\\
 graph-tool: 2.37+
 pandas: 1.5.2+
 scipy: 1.7.3+
